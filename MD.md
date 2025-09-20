@@ -1,15 +1,16 @@
 # Markdown for READMEs 📓 :octocat:
 
 ## Outlines
-* [Headlines](#Headlines)
-* [Separator](#Separator)
-* [Format](##Format)
-* [Links and Images](##Links_and_Images)
-* [Quotes](#Quotes)
-* [Code Snippet](#Code_Snippet)
-* [Bonus](#Bonus)
-* [Hints](#Hints)
-* [A BIG SECRET 🤫](#A_BIG_SECRET)
+* [Headlines](#headlines)
+* [Separator](#separator)
+* [Format](#format)
+* [Links and Images](#links-and-images)
+* [Quotes](#quotes)
+* [Code Snippet](#code-snippet)
+* [Callouts](#callouts)
+* [Bonus](#bonus)
+* [Hints](#hints)
+* [A BIG SECRET 🤫](#a-big-secret)
 
 ----
 
@@ -160,7 +161,7 @@ passed = len([grade for grade in grades_summary.values()
 
 ---
 
-## Callout
+## Callouts
 
 
 >[!NOTE]
