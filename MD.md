@@ -160,6 +160,33 @@ passed = len([grade for grade in grades_summary.values()
 
 ---
 
+## Callout
+
+
+>[!NOTE]
+> a note
+
+```
+>[!NOTE]
+> a note
+```
+
+>[!WARNING]
+>  a warning
+
+```
+>[!WARNING]
+>  a warning
+```
+
+>[!IMPORTANT]
+> something important
+
+```
+>[!IMPORTANT]
+> something important
+```
+---
 
 ## Bonus
 check this :point_right: [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
